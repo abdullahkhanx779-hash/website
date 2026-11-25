@@ -1,4 +1,4 @@
----
+Reset ---
 title: "Encryption"
 description: "How to encrypt your data with encryption v2, secure your app and ensure only you can update your users with your updates"
 sidebar:
